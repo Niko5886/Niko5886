@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Niko5886&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niko5886&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ## 🏆 Трофеи
