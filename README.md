@@ -6,7 +6,7 @@
 
 - 🟡 **AI-Native Full-Stack Developer:** Passionate coder, lifelong learner
 - 🔴 **Busy with React , Vanilla JS and AI-native Full-Stack Developer + 3D Creator:** Building modern web apps
-- 🟢 **Making a bunch of cool projects too:** Creative developer, side projects                                                                                                                                                                                                                                                                                                       - 💻  https://nikolay-ai-native-developer.vercel.app/
+- 🟢 **Making a bunch of cool projects too:** Creative developer, side projects                                                                                                                                                                                                                                                                                                           - 💻  https://nikolay-ai-native-developer.vercel.app/
 
 ## 🌐 Socials:
 
