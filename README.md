@@ -11,9 +11,9 @@
 ## 🌐 Socials:
 
 <p align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+  
   <a href="https://www.linkedin.com/in/николаи-стоянов-a79891356/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="Codepen"/></a>
+  
 </p>
 
 ## 💻 Tech Stack:
